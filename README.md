@@ -20,7 +20,7 @@
 | Nome | Usuário do GitHub |
 | --- | --- |
 | Mateus Rocha| |
-| Ruan Cesar | ruancesar.cln |
+| Ruan Cesar | ruancesarln-cln |
 | Luiz Fernando | |
 | Pedro rennek |  |
 | Reiner|  |
