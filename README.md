@@ -16,6 +16,18 @@
 | Raika Silva | K9s45vhk5p-hub |
 | Victória Batalha | vivibatalha |
 |  |  |
+**Nome do time:**Os Yakuza
+| Nome | Usuário do GitHub |
+| --- | --- |
+| Mateus Rocha| |
+| Ruan Cesar | ruancesar.cln |
+| Luiz Fernando | |
+| Pedro rennek |  |
+| Reiner|  |
+| Luiz moçanbite| |
+| Murilo | |
+| Lucas de paula| |
+
 
 ## O problema
 
